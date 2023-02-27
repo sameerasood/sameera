@@ -1,2 +1,0 @@
-# sameera
-Lorem Ipsum
